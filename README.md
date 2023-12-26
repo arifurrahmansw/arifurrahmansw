@@ -92,11 +92,5 @@ I enjoy bringing ideas to life through code and solving real-world problems with
 ## Contact
 📧 Email: arifurrahman91@live.com
 📍 Location: Dhaka, Bangladesh
-## Experience
-
-[![Web Developer](https://img.shields.io/badge/Web%20Developer-💻-blue)](https://your-portfolio-or-link.com)
-[![Junior Developer](https://img.shields.io/badge/Junior%20Developer-👶-green)](https://your-portfolio-or-link.com)
-[![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-🌐-orange)](https://your-portfolio-or-link.com)
-
 
 [![Check out arifurrahmansw's profile on stardev.io](https://stardev.io/developers/arifurrahmansw/badge/languages/global.svg)](https://stardev.io/developers/arifurrahmansw)
