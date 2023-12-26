@@ -96,5 +96,4 @@ I enjoy bringing ideas to life through code and solving real-world problems with
 
 ![Arifur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifurrahmansw&show_icons=true&count_private=true&hide=issues&theme=radical)
 
-
-[![Check out arifurrahmansw's profile on stardev.io](https://stardev.io/developers/arifurrahmansw/badge/languages/global.svg)](https://stardev.io/developers/arifurrahmansw)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=arifurrahmansw.arifurrahmansw)
