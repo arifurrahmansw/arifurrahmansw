@@ -14,13 +14,35 @@ I enjoy bringing ideas to life through code and solving real-world problems with
 
 ## Skills
 
-- **Languages:** PHP, JavaScript, HTML5, CSS3.
-- **Database:** MySQL.
-- **Frameworks:** Laravel, Vue.js, CodeIgniter,Cakephp ,jQuery, Ajax, Bootstrap.
-- **Graphics:** Adobe Photoshop CS6.
-- **Operating System:** Windows, Linux.
-- **REST API Integration.**
-- **Git Version Control:** Bitbucket, Gitlab, GitHub.
+- **Languages:** 
+  - PHP 🚀
+  - JavaScript 🌐
+  - HTML5 📄
+  - CSS3 🎨
+
+- **Database:** MySQL 🛢️
+
+- **Frameworks:**
+  - Laravel ⚙️
+  - Vue.js 💻
+  - CodeIgniter 🖥️
+  - jQuery 📦
+  - Ajax ↔️
+  - Bootstrap 🅱️
+
+- **Graphics:** Adobe Photoshop CS6 🎨
+
+- **Operating System:** 
+  - Windows 💻
+  - Linux 🐧
+
+- **REST API Integration:** 🔄
+
+- **Git Version Control:** 
+  - Bitbucket 🐙
+  - Gitlab 🦊
+  - GitHub 🐱
+
 
 
  
