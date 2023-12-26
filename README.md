@@ -24,7 +24,7 @@ I enjoy bringing ideas to life through code and solving real-world problems with
 
 **Frameworks:**
 - Laravel ⚙️
-- Vue.js 💻 ![Vue.js](https://vuejs.org/images/logo.png)
+- Vue.js 💻
 - CodeIgniter 🖥️
 - CakePHP 🍰
 - jQuery 📦
