@@ -22,14 +22,15 @@ I enjoy bringing ideas to life through code and solving real-world problems with
 
 - **Database:** MySQL 🛢️
 
-- **Frameworks:**
-  - Laravel ⚙️
-  - Vue.js 💻
-  - CodeIgniter 🖥️
-  - jQuery 📦
-  - Ajax ↔️
-  - Bootstrap 🅱️
-
+**Frameworks:**
+- Laravel ⚙️
+- Vue.js 💻 ![Vue.js](https://vuejs.org/images/logo.png)
+- CodeIgniter 🖥️
+- CakePHP 🍰
+- jQuery 📦
+- Ajax ↔️
+- Bootstrap 🅱️
+  
 - **Graphics:** Adobe Photoshop CS6 🎨
 
 - **Operating System:** 
@@ -91,9 +92,8 @@ I enjoy bringing ideas to life through code and solving real-world problems with
 
 ## Contact
 📧 Email: arifurrahman91@live.com
-📍 Location: Dhaka, Bangladesh
-## GitHub Stats
+📱 **WhatsApp:** [Chat with me](https://wa.me/8801711103662)
 
+## GitHub Stats
 ![Arifur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifurrahmansw&show_icons=true&count_private=true&hide=issues&theme=radical)
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=arifurrahmansw)
