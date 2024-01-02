@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=8EFF5300&random=false&width=435&lines=Full+Stack+Web+Developer;Experiences+with%3A+Laravel%2C+Vue.js;CodeIgniter%2CCakephp+%2CjQuery%2C+Ajax)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=8EFF5300&random=false&width=600&lines=Full+Stack+Web+Developer;Experiences+with%3A+Laravel%2C+Vue.js;CodeIgniter%2CCakephp+%2CjQuery%2C+Ajax)](https://git.io/typing-svg)
 # About Me
 
 Hi there! 👋 I'm Md Arifur Rahman, a Dhaka,Bangladesh-based Full Stack Web Developer with a passion for crafting digital experiences. Here's a bit more about me:
