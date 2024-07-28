@@ -92,7 +92,6 @@ I enjoy bringing ideas to life through code and solving real-world problems with
 
 ## Contact
 📧 Email: arifurrahman91@live.com
-📱 **WhatsApp:** [Chat with me](https://wa.me/8801711103662)
 
 ## GitHub Stats
 ![Arifur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifurrahmansw&show_icons=true&count_private=true&hide=issues&theme=radical)
