@@ -161,6 +161,17 @@ I'm open to:
 - 👥 Mentoring junior devs
 
 
+## ⚡ Fun Facts About Me
+
+- ☕ I start most coding sessions with a strong cup of coffee 
+- 🎧 My favorite coding companion is instrumental lo-fi music  
+- 🐛 I enjoy turning tricky bugs into learning opportunities  
+- 🚀 I’m a lifelong learner always chasing the next big tech trend  
+- 💡 I believe the best code is both elegant and easy to understand  
+- 🌱 I love mentoring junior developers and sharing what I’ve learned  
+
+
+
 ## 💻 My Development Toolbox
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
@@ -168,10 +179,6 @@ I'm open to:
 ![Postman](https://img.shields.io/badge/-Postman-FCA121?logo=postman&style=flat-square)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&style=flat-square)
 ![Figma](https://img.shields.io/badge/-Figma-000000?logo=figma&style=flat-square)
-
-
-## Contact
-📬 Just message me at [arifurrahman91@live.com](mailto:arifurrahman91@live.com)
 
 
 ## 📈 GitHub Stats & Activity
@@ -183,6 +190,14 @@ I'm open to:
 
 ![Visitors](https://komarev.com/ghpvc/?username=arifurrahmansw&style=flat-square&color=blue)
 
+
+
+
 ---
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
 💻 *Let’s build something amazing together!*
+
+
+
+## Contact
+📬 Just message me at [arifurrahman91@live.com](mailto:arifurrahman91@live.com)
