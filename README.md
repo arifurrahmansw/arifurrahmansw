@@ -131,6 +131,15 @@ I’ve built everything from admin dashboards to real-time web apps, and I alway
 - 🐱 GitHub: [github.com/arifurrahmansw](https://github.com/arifurrahmansw)
 - 💼 LinkedIn: [https://www.linkedin.com/in/arifurrahmansw/](https://www.linkedin.com/in/arifurrahmansw/)
 
-## GitHub Stats
-![Arifur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifurrahmansw&show_icons=true&count_private=true&hide=issues&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifurrahmansw&layout=compact&theme=radical)
+## 📈 GitHub Stats & Activity
+
+![Arifur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifurrahmansw&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifurrahmansw&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arifurrahmansw&theme=radical)
+![Arifur's Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=arifurrahmansw&theme=radical)
+
+
+
+---
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+💻 *Let’s build something amazing together!*
