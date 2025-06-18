@@ -1,97 +1,135 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=8EFF5300&random=false&width=600&lines=Full+Stack+Web+Developer;Experiences+with%3A+Laravel%2C+Vue.js;CodeIgniter%2CCakephp+%2CjQuery%2C+Ajax)](https://git.io/typing-svg)
-# About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=8EFF5300&random=false&width=600&lines=Full+Stack+Web+Developer;Experience+with%3A+Laravel%2C+Vue.js;CodeIgniter%2C+CakePHP%2C+jQuery%2C+Ajax)](https://git.io/typing-svg)
 
-Hi there! 👋 I'm Md Arifur Rahman, a Dhaka,Bangladesh-based Full Stack Web Developer with a passion for crafting digital experiences. Here's a bit more about me:
+# 👨‍💻 About Me
 
-## 👩‍💻 Professional Background
+Hi there! 👋 I'm **Md Arifur Rahman**, a Full Stack Web Developer based in **Dhaka, Bangladesh**, with a passion for crafting clean, efficient, and scalable web applications.
 
-I have a strong background in both frontend and backend development, specializing in technologies such as PHP, JavaScript, HTML5, and CSS3. My experience includes working with frameworks like Laravel, Vue.js, and CodeIgniter, allowing me to create dynamic and responsive web applications.
+---
+
+## 🧑‍💼 Professional Background
+
+I have a strong foundation in both front-end and back-end development, specializing in:
+
+- **Languages:** PHP, JavaScript, HTML5, CSS3  
+- **Databases:** MySQL  
+- **Frameworks & Libraries:** Laravel, CakePHP, CodeIgniter, Vue.js, jQuery, Bootstrap  
+- **API Integration:** RESTful APIs  
+- **Version Control:** Git (GitHub, GitLab, Bitbucket)  
+- **Graphics:** Adobe Photoshop CS6  
+- **OS:** Windows & Linux  
+
+I’ve built everything from admin dashboards to real-time web apps, and I always aim to deliver optimized, user-focused solutions.
+
+---
 
 ## 🚀 What I Love to Do
 
-I enjoy bringing ideas to life through code and solving real-world problems with technology. Whether it's designing a user-friendly interface or optimizing database performance, I thrive on the challenges that come with web development.
+- Transform ideas into real-world applications 🌐  
+- Write clean, maintainable code 💡  
+- Solve complex problems with simple solutions 🔧  
+- Collaborate with teams to build scalable platforms 🤝  
+- Learn and experiment with new technologies 📚  
 
+---
 
-## Skills
+## 🛠 Skills at a Glance
 
-- **Languages:** 
-  - PHP 🚀
-  - JavaScript 🌐
-  - HTML5 📄
-  - CSS3 🎨
+### 👨‍💻 Programming Languages
+- PHP, JavaScript, HTML5, CSS3
 
-- **Database:** MySQL 🛢️
+### ⚙️ Frameworks & Tools
+- Laravel, Vue.js, CodeIgniter, CakePHP, jQuery, Bootstrap, Ajax
 
-**Frameworks:**
-- Laravel ⚙️
-- Vue.js 💻
-- CodeIgniter 🖥️
-- CakePHP 🍰
-- jQuery 📦
-- Ajax ↔️
-- Bootstrap 🅱️
-  
-- **Graphics:** Adobe Photoshop CS6 🎨
+### 🗃️ Database
+- MySQL
 
-- **Operating System:** 
-  - Windows 💻
-  - Linux 🐧
+### 🎨 Design Tools
+- Adobe Photoshop CS6
 
-- **REST API Integration:** 🔄
+### 🔁 API & Integration
+- REST APIs, JSON
 
-- **Git Version Control:** 
-  - Bitbucket 🐙
-  - Gitlab 🦊
-  - GitHub 🐱
+### 🧰 Version Control
+- Git (GitHub, GitLab, Bitbucket)
 
-
-
+### 💻 Platforms
+- Windows, Linux
  
-## Used Technologies
+## 🧰 Used Technologies
+
 ![Linux](https://img.shields.io/badge/Linux-00C7B7?style=flat-square&logo=linux&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-C51A38?style=flat-square&logo=apache&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-005C84?style=flat-square&logo=mariadb&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-005C84?style=flat-square&logo=Nginx&logoColor=blue)
-![Git](https://img.shields.io/badge/git-F1502F?style=flat-square&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitLab-8C929D?style=flat-square&logo=gitLab&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-171515?style=flat-square&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-253858?style=flat-square&logo=bitbucket&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-F79400?style=flat-square&logo=aws&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-C51A38?style=flat-square&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-005C84?style=flat-square&logo=nginx&logoColor=blue)
+![AWS](https://img.shields.io/badge/aws-F79400?style=flat-square&logo=amazon-aws&logoColor=white)
+
+---
+
+## 💻 Frontend & Backend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
+---
+
+## 🛠 DevOps & Version Control
+
+![Git](https://img.shields.io/badge/git-F1502F?style=flat-square&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-8C929D?style=flat-square&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-253858?style=flat-square&logo=bitbucket&logoColor=white)
+
+---
 
 ## 📫 Let's Connect
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arifurrahmansw/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arifurrahmansw/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/arifurrahmansw)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/arifurrahmansw)
-[![Stackoverflow](https://img.shields.io/badge/stackoverflow-F48024?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/6052749/arifur-rahman)
-[![instagram](https://img.shields.io/badge/instagram-red?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/arifurrahmansw)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F48024?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/6052749/arifur-rahman)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/arifurrahmansw)
 
 
 
-## Experience
 
-### Web Developer | Arobil Limited
-- 📍 Dhaka, Bangladesh
-- 📅 Dec 2020 - Sep 2023
-- 🏢 Unit 10A, House 21, Road 17, Banani C/A, Dhaka 1213
+# 💼 Experience
 
+### 🧠 Sr. Back-End Developer | RazinSoft
+- 📍 Dhaka, Bangladesh  
+- 📅 Nov 1, 2024 – Present  
+- 🏢 1st Floor, 1/1 (A&B), Shyamoli Ring Road, Bazer Road, Dhaka 1207  
 
-### Jr. Web Developer | Weblink Communications Ltd
-- 📍 Dhaka, Bangladesh
-- 📅 Jan 1, 2017 – Dec 2020
-- 🏢 House#101(6th floor), Road#13/A, Block#3, Banani, Dhaka-1213
+---
+
+### 🧠 Sr. Software Engineer | SpaGreen Creative
+- 📍 Dhaka, Bangladesh  
+- 📅 Oct 1, 2023 – Oct 31, 2024  
+- 🏢 House #1168, Road #10, Avenue #12, Dhaka 1216  
+
+---
+
+### 🧠 Web Developer | Arobil Limited
+- 📍 Dhaka, Bangladesh  
+- 📅 Dec 2020 – Sep 2023  
+- 🏢 Unit 10A, House 21, Road 17, Banani C/A, Dhaka 1213  
+
+---
+
+### 🧠 Jr. Web Developer | Weblink Communications Ltd
+- 📍 Dhaka, Bangladesh  
+- 📅 Jan 1, 2017 – Dec 2020  
+- 🏢 House #101 (6th floor), Road #13/A, Block #3, Banani, Dhaka 1213  
 
 
 ## Contact
-📧 Email: arifurrahman91@live.com
+- 📧 Email: [arifurrahman91@live.com](mailto:arifurrahman91@live.com)
+- 🐱 GitHub: [github.com/arifurrahmansw](https://github.com/arifurrahmansw)
+- 💼 LinkedIn: [https://www.linkedin.com/in/arifurrahmansw/](https://www.linkedin.com/in/arifurrahmansw/)
 
 ## GitHub Stats
 ![Arifur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifurrahmansw&show_icons=true&count_private=true&hide=issues&theme=radical)
