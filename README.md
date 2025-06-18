@@ -95,8 +95,6 @@ I’ve built everything from admin dashboards to real-time web apps, and I alway
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/arifurrahmansw)
 
 
-
-
 # 💼 Experience
 
 ### 🧠 Sr. Back-End Developer | RazinSoft
@@ -124,6 +122,31 @@ I’ve built everything from admin dashboards to real-time web apps, and I alway
 - 📍 Dhaka, Bangladesh  
 - 📅 Jan 1, 2017 – Dec 2020  
 - 🏢 House #101 (6th floor), Road #13/A, Block #3, Banani, Dhaka 1213  
+
+
+
+## 🎯 2025 Goals
+
+- 🚀 Launch a Laravel SaaS starter boilerplate on GitHub
+- 📚 Write 5+ blog posts or tutorials on Laravel/Vue
+- 🧩 Contribute to at least 3 open-source projects
+- 🔧 Build a Laravel license & update management system
+
+## 📚 Currently Learning
+
+- Docker for PHP Development 🐳
+- Laravel Octane & Swoole 🧨
+- Alpine.js + Tailwind UI
+- DevOps basics with GitHub Actions 🚀
+
+
+## 💻 My Development Toolbox
+
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+![PHPStorm](https://img.shields.io/badge/-PHPStorm-000000?logo=phpstorm&style=flat-square&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FCA121?logo=postman&style=flat-square)
+![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&style=flat-square)
+![Figma](https://img.shields.io/badge/-Figma-000000?logo=figma&style=flat-square)
 
 
 ## Contact
