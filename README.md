@@ -153,10 +153,13 @@ I’ve built everything from admin dashboards to real-time web apps, and I alway
 - 🐱 GitHub: [github.com/arifurrahmansw](https://github.com/arifurrahmansw)
 - 💼 LinkedIn: [https://www.linkedin.com/in/arifurrahmansw/](https://www.linkedin.com/in/arifurrahmansw/)
 
-## ⏱️ Weekly Development Breakdown
+## 🛣️ My Developer Journey
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+```text
+💡 2017: Started as Jr. Web Developer @ Weblink
+🚀 2020: Promoted to Full-stack @ Arobil
+🏆 2023: Became Sr. Engineer @ SpaGreen
+🌍 2024–Present: Sr. Back-End @ RazinSoft
 
 
 ## 📈 GitHub Stats & Activity
