@@ -135,7 +135,7 @@ I’ve built everything from admin dashboards to real-time web apps, and I alway
 
 ![Arifur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifurrahmansw&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifurrahmansw&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arifurrahmansw&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=arifurrahmansw&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 ![Arifur's Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=arifurrahmansw&theme=radical)
 
 
