@@ -123,14 +123,6 @@ I’ve built everything from admin dashboards to real-time web apps, and I alway
 - 📅 Jan 1, 2017 – Dec 2020  
 - 🏢 House #101 (6th floor), Road #13/A, Block #3, Banani, Dhaka 1213  
 
-## ⏳ Career Timeline
-
-```mermaid
-graph TD;
-  A[2017 - Jr. Developer] --> B[2020 - Full-stack Developer];
-  B --> C[2023 - Sr. Software Engineer];
-  C --> D[2024 - Sr. Back-End Developer];
-
 
 
 ## 🎯 2025 Goals
@@ -160,6 +152,12 @@ graph TD;
 - 📧 Email: [arifurrahman91@live.com](mailto:arifurrahman91@live.com)
 - 🐱 GitHub: [github.com/arifurrahmansw](https://github.com/arifurrahmansw)
 - 💼 LinkedIn: [https://www.linkedin.com/in/arifurrahmansw/](https://www.linkedin.com/in/arifurrahmansw/)
+
+## ⏱️ Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ## 📈 GitHub Stats & Activity
 
