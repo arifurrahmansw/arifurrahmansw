@@ -133,4 +133,4 @@ I’ve built everything from admin dashboards to real-time web apps, and I alway
 
 ## GitHub Stats
 ![Arifur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifurrahmansw&show_icons=true&count_private=true&hide=issues&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifurrahmansw&layout=compact&theme=radical)
