@@ -123,6 +123,14 @@ I’ve built everything from admin dashboards to real-time web apps, and I alway
 - 📅 Jan 1, 2017 – Dec 2020  
 - 🏢 House #101 (6th floor), Road #13/A, Block #3, Banani, Dhaka 1213  
 
+## ⏳ Career Timeline
+
+```mermaid
+graph TD;
+  A[2017 - Jr. Developer] --> B[2020 - Full-stack Developer];
+  B --> C[2023 - Sr. Software Engineer];
+  C --> D[2024 - Sr. Back-End Developer];
+
 
 
 ## 🎯 2025 Goals
@@ -138,9 +146,6 @@ I’ve built everything from admin dashboards to real-time web apps, and I alway
 - Laravel Octane & Swoole 🧨
 - Alpine.js + Tailwind UI
 - DevOps basics with GitHub Actions 🚀
-
-![Visitors](https://komarev.com/ghpvc/?username=arifurrahmansw&style=flat-square&color=blue)
-
 
 ## 💻 My Development Toolbox
 
@@ -163,6 +168,7 @@ I’ve built everything from admin dashboards to real-time web apps, and I alway
 ![Arifur's Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=arifurrahmansw&theme=radical)
 
 
+![Visitors](https://komarev.com/ghpvc/?username=arifurrahmansw&style=flat-square&color=blue)
 
 ---
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
