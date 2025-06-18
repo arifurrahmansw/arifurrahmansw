@@ -139,6 +139,27 @@ I’ve built everything from admin dashboards to real-time web apps, and I alway
 - Alpine.js + Tailwind UI
 - DevOps basics with GitHub Actions 🚀
 
+## 🛠️ What I Can Help With
+
+- 🚀 Building Laravel + Vue full-stack web applications
+- 🧪 API development and integration (RESTful & 3rd party)
+- 🗃️ Database design, optimization & migration
+- 🛡️ Backend architecture, authentication, and RBAC
+- 🧑‍💻 Clean code, best practices, and performance tuning
+- 🐛 Bug fixing & legacy code refactoring
+
+
+## 🤝 Let's Collaborate
+
+I'm open to:
+- 💼 Freelance Laravel Projects
+- 🤝 Open Source Laravel-Vue Systems
+- 🎤 Speaking or podcast guest invites
+- 👥 Mentoring junior devs
+
+📬 Just message me at [arifurrahman91@live.com](mailto:arifurrahman91@live.com)
+
+
 ## 💻 My Development Toolbox
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
@@ -148,18 +169,11 @@ I’ve built everything from admin dashboards to real-time web apps, and I alway
 ![Figma](https://img.shields.io/badge/-Figma-000000?logo=figma&style=flat-square)
 
 
+
 ## Contact
 - 📧 Email: [arifurrahman91@live.com](mailto:arifurrahman91@live.com)
 - 🐱 GitHub: [github.com/arifurrahmansw](https://github.com/arifurrahmansw)
 - 💼 LinkedIn: [https://www.linkedin.com/in/arifurrahmansw/](https://www.linkedin.com/in/arifurrahmansw/)
-
-## 🛣️ My Developer Journey
-
-```text
-💡 2017: Started as Jr. Web Developer @ Weblink
-🚀 2020: Promoted to Full-stack @ Arobil
-🏆 2023: Became Sr. Engineer @ SpaGreen
-🌍 2024–Present: Sr. Back-End @ RazinSoft
 
 
 ## 📈 GitHub Stats & Activity
