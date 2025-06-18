@@ -157,7 +157,6 @@ I’ve built everything from admin dashboards to real-time web apps, and I alway
 I'm open to:
 - 💼 Freelance Laravel Projects
 - 🤝 Open Source Laravel-Vue Systems
-- 🎤 Speaking or podcast guest invites
 - 👥 Mentoring junior devs
 
 
