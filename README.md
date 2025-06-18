@@ -124,29 +124,32 @@ I’ve built everything from admin dashboards to real-time web apps, and I alway
 - 🏢 House #101 (6th floor), Road #13/A, Block #3, Banani, Dhaka 1213  
 
 
-
 ## 🎯 2025 Goals
 
-- 🚀 Launch a Laravel SaaS starter boilerplate on GitHub
-- 📚 Write 5+ blog posts or tutorials on Laravel/Vue
-- 🧩 Contribute to at least 3 open-source projects
-- 🔧 Build a Laravel license & update management system
+- 🚀 Launch a Laravel SaaS starter boilerplate on GitHub  
+- 📚 Write 50+ blog posts or tutorials on Laravel/Vue  
+- 🧩 Contribute to at least 3 open-source projects  
+- 🔧 Build a Laravel license & update management system  
+- 💼 Develop and publish 3 premium PHP Laravel scripts on CodeCanyon  
+
 
 ## 📚 Currently Learning
 
 - Docker for PHP Development 🐳
-- Laravel Octane & Swoole 🧨
-- Alpine.js + Tailwind UI
+- Laravel Octane 🧨
 - DevOps basics with GitHub Actions 🚀
+
 
 ## 🛠️ What I Can Help With
 
 - 🚀 Building Laravel + Vue full-stack web applications
-- 🧪 API development and integration (RESTful & 3rd party)
+- 🧪 API development and integration (RESTful & 3rd party), including WhatsApp Cloud API
 - 🗃️ Database design, optimization & migration
 - 🛡️ Backend architecture, authentication, and RBAC
+- 🔔 Real-time features using Pusher and WebSockets
 - 🧑‍💻 Clean code, best practices, and performance tuning
 - 🐛 Bug fixing & legacy code refactoring
+
 
 
 ## 🤝 Let's Collaborate
@@ -156,8 +159,6 @@ I'm open to:
 - 🤝 Open Source Laravel-Vue Systems
 - 🎤 Speaking or podcast guest invites
 - 👥 Mentoring junior devs
-
-📬 Just message me at [arifurrahman91@live.com](mailto:arifurrahman91@live.com)
 
 
 ## 💻 My Development Toolbox
@@ -169,11 +170,8 @@ I'm open to:
 ![Figma](https://img.shields.io/badge/-Figma-000000?logo=figma&style=flat-square)
 
 
-
 ## Contact
-- 📧 Email: [arifurrahman91@live.com](mailto:arifurrahman91@live.com)
-- 🐱 GitHub: [github.com/arifurrahmansw](https://github.com/arifurrahmansw)
-- 💼 LinkedIn: [https://www.linkedin.com/in/arifurrahmansw/](https://www.linkedin.com/in/arifurrahmansw/)
+📬 Just message me at [arifurrahman91@live.com](mailto:arifurrahman91@live.com)
 
 
 ## 📈 GitHub Stats & Activity
