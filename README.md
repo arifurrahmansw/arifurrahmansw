@@ -160,14 +160,14 @@ I'm open to:
 - 👥 Mentoring junior devs
 
 
-## ⚡ Fun Facts About Me
+<!-- ## ⚡ Fun Facts About Me
 
 - ☕ I start most coding sessions with a strong cup of coffee 
 - 🎧 My favorite coding companion is instrumental lo-fi music  
 - 🐛 I enjoy turning tricky bugs into learning opportunities  
 - 🚀 I’m a lifelong learner always chasing the next big tech trend  
 - 💡 I believe the best code is both elegant and easy to understand  
-- 🌱 I love mentoring junior developers and sharing what I’ve learned  
+- 🌱 I love mentoring junior developers and sharing what I’ve learned   -->
 
 
 
